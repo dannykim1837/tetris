@@ -1,2 +1,8 @@
 # ninja log v5
 1	29	1716170079997557549	CMakeFiles/untitled.dir/Tetris.cpp.o	d35f2dc2fd726788
+2	84	1716172073133868092	CMakeFiles/untitled.dir/Piece.cpp.o	f134747e01932045
+2	367	1716172073416130094	CMakeFiles/untitled.dir/Board.cpp.o	945c41268e839060
+6	262	1716172194479574424	CMakeFiles/untitled.dir/Tetris.cpp.o	d35f2dc2fd726788
+7	260	1716172230504865301	CMakeFiles/untitled.dir/main.cpp.o	4498c0cece4d37f6
+7	266	1716172230511743485	CMakeFiles/untitled.dir/Game.cpp.o	bbc897fab8a44a5f
+266	309	1716172230555887054	untitled	89b76d91b63f3ac
